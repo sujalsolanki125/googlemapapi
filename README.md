@@ -19,4 +19,4 @@ This project is a fully functional **Google Maps-based web application** with mu
 
 ### 📌 **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/sujalsolanki125/googlemapapi.git
